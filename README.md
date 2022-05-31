@@ -5,6 +5,11 @@
 -   The front-end has a light and dark theme option.
 -   The front-end has a fully functional multiple-tab option that can be used to simultaneously work on different markdown files.
 
+## Screenshots:
+
+![light_mode](./Screenshots/demolight.png)
+![dark_mode](./Screenshots/demodark.png)
+
 ## Setup
 
 -   `npm i` installs all the dependencies needed to run the application.
