@@ -95,10 +95,12 @@ hr {
 	height: 100%;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap");
 .rendered-container {
 	height: 100vh;
 	width: 40vw;
 	margin: 2rem;
+	font-family: "Roboto Slab", serif;
 }
 
 .rendered-text {
