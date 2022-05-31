@@ -7,8 +7,8 @@
 
 ## Screenshots:
 
-![light_mode](./Screenshots/demolight.png)
-![dark_mode](./Screenshots/demodark.png)
+![light_mode](./Screenshots/demolight-1.png)
+![dark_mode](./Screenshots/demodark-1.png)
 
 ## Setup
 
